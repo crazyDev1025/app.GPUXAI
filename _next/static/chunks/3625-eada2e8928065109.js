@@ -183,7 +183,7 @@
             },
             {
               label: "Whitepaper",
-              href: "https://docs.honeyai.cloud",
+              href: "https://docs.gpuxai.pro",
               icon: N.A,
               external: !0,
             },
