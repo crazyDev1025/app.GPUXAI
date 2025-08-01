@@ -157,13 +157,13 @@
         let V = [
             {
               label: "Home",
-              href: "https://www.honeyai.cloud/",
+              href: "https://www.gpuxai.pro/",
               icon: f.A,
               external: !0,
             },
             {
               label: "Dapp",
-              href: "https://app.honeyai.cloud",
+              href: "https://app.gpuxai.pro",
               icon: g.A,
               external: !0,
             },
@@ -171,13 +171,13 @@
           K = [
             {
               label: "X / Twitter",
-              href: "https://x.com/HoneyAI_Coin",
+              href: "https://x.com/GPUXAI_eth",
               icon: u.A,
               external: !0,
             },
             {
               label: "Telegram",
-              href: "https://t.me/HoneyAI_Coin",
+              href: "https://t.me/GPUXAI_eth",
               icon: w.A,
               external: !0,
             },
